@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "openagent-theme-lyra",
-  "version": "1.1.0",
-  "description": "Lyra: lyra / neutral / neutral / neutral",
+  "version": "1.1.1",
+  "description": "A neutral gray theme with 12px monospace text and square corners; supports light and dark modes.",
   "license": "MIT",
   "repository": "https://github.com/BANG404/openagent-theme-lyra",
   "homepage": "https://ui.shadcn.com/create",
@@ -136,12 +136,12 @@
         "default_locale": "en",
         "translations": {
           "en": {
-            "display_name": "Lyra",
-            "description": "Lyra: lyra / neutral / neutral / neutral"
+            "display_name": "Lyra Monospace Theme",
+            "description": "A neutral gray theme with 12px monospace text and square corners; supports light and dark modes."
           },
           "zh": {
-            "display_name": "Lyra",
-            "description": "Lyra 主题：lyra / neutral / neutral / neutral"
+            "display_name": "Lyra 等宽主题",
+            "description": "中性灰阶配色，搭配 12px 等宽字体和直角控件，支持浅色与深色模式。"
           }
         }
       },

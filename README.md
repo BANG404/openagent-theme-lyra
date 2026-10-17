@@ -1,8 +1,8 @@
-# Lyra
+# Lyra Monospace Theme
 
-Lyra: lyra / neutral / neutral / neutral
+A neutral gray theme with 12px monospace text and square corners; supports light and dark modes.
 
-Install this directory or its release archive in OpenAgent Plugins, then select Lyra in General → Appearance. Light/dark and system appearance are supported. User appearance overrides apply last.
+Install this directory or its release archive in OpenAgent Plugins, then select Lyra Monospace Theme in General → Appearance. Light/dark and system appearance are supported. User appearance overrides apply last.
 
 Requires the OpenAgent theme-fonts-v1 capability. This is a Svelte/Bits UI adaptation of the upstream visual grammar; React component libraries and icon libraries are not switched by a theme. Fonts and licenses are bundled in this plugin under fonts/ and work offline; CJK glyphs use system fallbacks.
 
