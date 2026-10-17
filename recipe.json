@@ -1,0 +1,15 @@
+{
+  "title": "Lyra",
+  "description": "Phosphor / JetBrains Mono",
+  "style": "lyra",
+  "baseColor": "neutral",
+  "theme": "neutral",
+  "chartColor": "neutral",
+  "iconLibrary": "phosphor",
+  "font": "jetbrains-mono",
+  "fontHeading": "inherit",
+  "menuAccent": "subtle",
+  "menuColor": "default",
+  "radius": "default",
+  "rtl": false
+}
