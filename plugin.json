@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "openagent-theme-lyra",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lyra: lyra / neutral / neutral / neutral",
   "license": "MIT",
   "repository": "https://github.com/BANG404/openagent-theme-lyra",
@@ -122,7 +122,7 @@
       "i18n": {
         "supported_locales": [
           "en",
-          "zh-CN"
+          "zh"
         ],
         "default_locale": "en",
         "translations": {
@@ -130,7 +130,7 @@
             "display_name": "Lyra",
             "description": "Lyra: lyra / neutral / neutral / neutral"
           },
-          "zh-CN": {
+          "zh": {
             "display_name": "Lyra",
             "description": "Lyra 主题：lyra / neutral / neutral / neutral"
           }
